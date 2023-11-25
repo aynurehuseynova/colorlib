@@ -1,0 +1,118 @@
+.container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container .all {
+  display: flex;
+  align-items: end;
+  justify-content: center;
+  display: flex;
+  width: 550px;
+  height: 590px;
+  flex-direction: column;
+  gap: 35px;
+}
+.container .write {
+  width: 540px;
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.container span {
+  font-size: 16px;
+  color: #FF5600;
+}
+.container strong {
+  font-size: 49px;
+  color: #222222;
+}
+.container p {
+  font-size: 16px;
+  color: #222222;
+}
+.container img {
+  width: 510px;
+  height: 565px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container .four {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  gap: 20px;
+}
+.container .four .iconp {
+  font-size: 12px;
+}
+
+.containersecond {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 45px;
+}
+.containersecond .allsecond {
+  display: flex;
+  align-items: start;
+  justify-content: center;
+  display: flex;
+  width: 550px;
+  height: 590px;
+  flex-direction: column;
+  gap: 10px;
+}
+.containersecond .allsecond button {
+  border: 1px solid #ff5600;
+  cursor: pointer;
+  width: 180px;
+  height: 62px;
+  border-radius: 7px;
+  color: gray;
+  font-size: 14px;
+  background-color: white;
+}
+.containersecond .writesecond {
+  width: 510px;
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.containersecond span {
+  font-size: 16px;
+  color: #FF5600;
+}
+.containersecond strong {
+  font-size: 49px;
+  color: #222222;
+}
+.containersecond p {
+  font-size: 16px;
+  color: #222222;
+}
+.containersecond img {
+  width: 510px;
+  height: 565px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.containersecond .foursecond {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  gap: 20px;
+}
+.containersecond .foursecond .information {
+  font-size: 12px;
+}

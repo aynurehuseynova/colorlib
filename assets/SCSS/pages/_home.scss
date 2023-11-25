@@ -1,0 +1,140 @@
+.container {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .all {
+        display: flex;
+        align-items: end;
+        justify-content: center;
+        display: flex;
+        width: 550px;
+        height: 590px;
+        flex-direction: column;
+        gap: 35px;
+    }
+
+    .write {
+        width: 540px;
+        height: 250px;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+
+    }
+
+    span {
+        font-size: 16px;
+        color: #FF5600;
+    }
+
+    strong {
+        font-size: 49px;
+        color: #222222;
+    }
+
+    p {
+        font-size: 16px;
+        color: #222222;
+    }
+
+    img {
+        width: 510px;
+        height: 565px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .four {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 500px;
+        gap: 20px;
+
+        .iconp {
+            font-size: 12px;
+        }
+    }
+}
+
+
+
+
+.containersecond {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 45px;
+
+    .allsecond {
+        display: flex;
+        align-items: start;
+        justify-content: center;
+        display: flex;
+        width: 550px;
+        height: 590px;
+        flex-direction: column;
+        gap: 10px;
+
+        button {
+            border: 1px solid #ff5600;
+            cursor: pointer;
+            width: 180px;
+            height: 62px;
+            border-radius: 7px;
+            color: gray;
+            font-size: 14px;
+            background-color: white;
+        }
+    }
+
+    .writesecond {
+        width: 510px;
+        height: 250px;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    span {
+        font-size: 16px;
+        color: #FF5600;
+    }
+
+    strong {
+        font-size: 49px;
+        color: #222222;
+    }
+
+    p {
+        font-size: 16px;
+        color: #222222;
+    }
+
+    img {
+        width: 510px;
+        height: 565px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .foursecond {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 500px;
+        gap: 20px;
+
+        .information {
+            font-size: 12px;
+        }
+    }
+
+}
